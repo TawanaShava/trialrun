@@ -1,0 +1,36 @@
+
+header{
+    text-shadow: #333;
+    background-color: #f1f1f1;
+    text-align: center;
+    padding: 20px;
+}
+
+.nav{
+overflow: hidden;
+background-color: #333;
+}
+
+.nav a{
+    float: left;
+    display: block;
+    color:#f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.nav a:hover{
+    background-color: #ddd;
+    color:back;
+}
+
+
+body{
+    background-image: url(images/home.jpg);
+    
+}
+
+.nav1.html{
+    background-color: #333;
+}
